@@ -2,6 +2,10 @@
 
 - This is a Theme Changer app.
 
+[Netlify](https://themechanger-harshcodes.netlify.app/)
+
+![](https://img.shields.io/badge/Netlify-Link-green)
+
 ![Theme Changer](/images/Light%20Mode%20(1).png)
 
 ---
